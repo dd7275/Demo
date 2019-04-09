@@ -6,7 +6,7 @@ public class TestSorting {
 		System.out.println("Print2");
 		System.out.println("Print3");
 		System.out.println("Print4");
-		
+		System.out.println("Print1");
 		
 	}
 }
